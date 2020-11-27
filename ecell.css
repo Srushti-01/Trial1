@@ -7,7 +7,7 @@ body{
 }
 /*  theme color for background */
 .back2{
-    background: rgba(36,189,250,0.4);
+    background: rgba(0, 87, 19, 0.8);
 }
 .back {
     background: rgba(36, 189, 250, 0.55);
@@ -48,6 +48,9 @@ body{
     text-decoration: black;
     font-weight: bold;
     letter-spacing: 1px;
+}
+.nav-img{
+    height: 10vh;
 }
 
 /* name */
