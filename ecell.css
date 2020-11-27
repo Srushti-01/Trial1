@@ -61,3 +61,9 @@ body{
     letter-spacing: 2.5px;
     font-size: 52px;
 }
+
+.active1{
+    background-color: #ffffff;
+    font-size: large;
+    color: #ff0000;
+}
