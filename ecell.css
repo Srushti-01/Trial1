@@ -72,3 +72,6 @@ body{
     color:#ff8800;
     background: rgb(87, 2, 136);
 }
+.rounded{
+    border-radius: 5px;
+}
